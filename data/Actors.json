@@ -1,0 +1,16 @@
+[
+null,
+{"id":1,"battlerName":"eric","characterIndex":0,"characterName":"eric","classId":1,"equips":[0,0,2,3,4],"faceIndex":0,"faceName":"eric","traits":[],"initialLevel":1,"maxLevel":99,"name":"Eric","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"marlene","characterIndex":0,"characterName":"marlene","classId":2,"equips":[0,0,2,3,0],"faceIndex":0,"faceName":"marlene","traits":[],"initialLevel":1,"maxLevel":99,"name":"Marlene","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"dorian","characterIndex":0,"characterName":"dorian","classId":3,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"dorian","traits":[],"initialLevel":1,"maxLevel":99,"name":"Dorian","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Actor3_7","characterIndex":6,"characterName":"Actor3","classId":9,"equips":[4,0,2,3,4],"faceIndex":6,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Shaun","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"helena","characterIndex":0,"characterName":"helena","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"helena","traits":[],"initialLevel":1,"maxLevel":99,"name":"Helena","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"kron","characterIndex":0,"characterName":"kron","classId":6,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"kron","traits":[],"initialLevel":1,"maxLevel":99,"name":"Kron","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"satoo","characterIndex":0,"characterName":"satoo","classId":7,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"satoo","traits":[],"initialLevel":1,"maxLevel":99,"name":"Satoo Roonin","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"erach","characterIndex":0,"characterName":"erach","classId":8,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"erach","traits":[],"initialLevel":1,"maxLevel":99,"name":"Erach","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"kraus","characterIndex":0,"characterName":"kraus","classId":4,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"kraus","traits":[],"initialLevel":1,"maxLevel":99,"name":"Kraus","nickname":"","note":"","profile":""},
+{"id":10,"battlerName":"rena","characterIndex":0,"characterName":"rena","classId":3,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"rena","traits":[],"initialLevel":1,"maxLevel":99,"name":"Rena","nickname":"","note":"","profile":""},
+{"id":11,"battlerName":"","characterIndex":7,"characterName":"People3","classId":1,"equips":[0,0,0,0,0],"faceIndex":7,"faceName":"People3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Soldado","nickname":"","note":"","profile":""},
+{"id":12,"battlerName":"","characterIndex":7,"characterName":"People3","classId":1,"equips":[0,0,0,0,0],"faceIndex":7,"faceName":"People3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Soldado","nickname":"","note":"","profile":""},
+{"id":13,"battlerName":"","characterIndex":7,"characterName":"People3","classId":1,"equips":[0,0,0,0,0],"faceIndex":7,"faceName":"People3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Soldado","nickname":"","note":"","profile":""}
+]
