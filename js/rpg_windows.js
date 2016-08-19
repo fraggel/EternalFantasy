@@ -1721,7 +1721,7 @@ Window_MenuStatus.prototype.itemHeight = function() {
 };
 
 Window_MenuStatus.prototype.numVisibleRows = function() {
-    return 4;
+    return 5;
 };
 
 Window_MenuStatus.prototype.loadImages = function() {
@@ -5330,7 +5330,7 @@ Window_PartyCommand.prototype.windowWidth = function() {
 };
 
 Window_PartyCommand.prototype.numVisibleRows = function() {
-    return 4;
+    return 2;
 };
 
 Window_PartyCommand.prototype.makeCommandList = function() {

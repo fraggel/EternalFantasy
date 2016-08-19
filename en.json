@@ -1,0 +1,21 @@
+{
+	"system.nivel" : "Level",
+	"system.ataque" :"Atack",
+	"system.defensa" :"Deffence",
+	"system.ataquem" :"Atack M.",
+	"system.defensam" :"Deffence M.",
+	"system.lucha" : "Fight",
+	"system.nuevapartida" : "New Game",
+	
+	"clase.guerrero" : "Warrior",
+    "clase.arquero" : "Archer",
+    "clase.magonegro" : "Warrior",
+    "clase.invocador" : "Warrior",
+    "clase.magoblanco" : "Warrior",
+    "clase.bardo" : "Warrior",
+    "clase.samurai" : "Warrior",
+    "clase.draconido" : "Warrior",
+    "clase.invocadorsupremo" : "Warrior",
+    "intro.1": "English Hace 250 años la oscuridad se cernió sobre Galea",
+	"intro.2": "English \\C[1]Demonel\\C[0] y sus esbirros condenaron a la \nhumanidad y todas las razas que en Galea habitaban, a\nla más lúgubre y tenebrosa oscuridad"
+}

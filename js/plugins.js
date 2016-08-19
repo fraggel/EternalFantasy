@@ -4,5 +4,13 @@ var $plugins =
 [
 {"name":"AltMenuScreen","status":true,"description":"Alternative menu screen layout.","parameters":{}},
 {"name":"AltSaveScreen","status":true,"description":"Alternative save/load screen layout.","parameters":{}},
-{"name":"fullscreen","status":false,"description":"","parameters":{}}
+{"name":"fullscreen","status":false,"description":"","parameters":{}},
+{"name":"EnemyBook","status":true,"description":"Displays detailed statuses of enemies.","parameters":{"Unknown Data":"??????"}},
+{"name":"ItemBook","status":true,"description":"Displays detailed statuses of items.","parameters":{"Unknown Data":"??????","Price Text":"Price","Equip Text":"Equip","Type Text":"Type"}},
+{"name":"SOUL_MV_BattleResults","status":true,"description":"v1.0 Shows a scene based battle results instead of messages after battle.","parameters":{"Display Level Up":"true","BR Wallpaper":"CrossedSwords","BR Victorious Image":"Victorious","BR Music":"Victory2","BR Volume":"100","BR Pitch":"100","BR Pan":"0"}},
+{"name":"Pixel_BattleTrans","status":true,"description":"Creates a pixelate battle transition.","parameters":{}},
+{"name":"MrTS_BattleCharacterLimit","status":true,"description":"Changes character placement for battles.","parameters":{"Max Characters":"5","Characters Per Row":"3","Offset":"120","Vertical Offset":"300","Lower Index":"48","Forward Offset":"100","Row Spacing":"100","Vertical Chara Spacing":"54"}},
+{"name":"Battle_Weather","status":true,"description":"Allows you to display weather effects in battle","parameters":{}},
+{"name":"lavMultiCore","status":true,"description":"The core plugin for localization, which contains all logic to load text and convert escape codes.\r\n<Iavra Localization Core>","parameters":{"Escape Code":"#{{key}}","Languages":"es,en","File Path":"{lang}.json"}},
+{"name":"lavMultiMenu","status":true,"description":"Adds a \"Language\" option to the options menu, that can be used to change game language on the fly.\r\n<Iavra Localization Menu>","parameters":{"Option Label":"Language","Language Labels":"es:Español,en:English"}}
 ];

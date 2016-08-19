@@ -49,7 +49,7 @@
     };
 
     Window_MenuStatus.prototype.maxCols = function() {
-        return 4;
+        return 5;
     };
 
     Window_MenuStatus.prototype.numVisibleRows = function() {

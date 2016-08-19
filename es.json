@@ -1,0 +1,21 @@
+{
+	"system.nivel" : "Nivel",
+	"system.ataque" :"Ataque",
+	"system.defensa" :"Defensa",
+	"system.ataquem" :"Ataque M.",
+	"system.defensam" :"Defensa M.",
+	"system.lucha" : "Lucha",
+	"system.nuevapartida" : "Nueva partida",
+	
+	"clase.guerrero" : "Guerrero",
+    "clase.arquero" : "Arquero",
+    "clase.magonegro" : "Mago Negro",
+    "clase.invocador" : "Invocador",
+    "clase.magoblanco" : "Mago Blanco",
+    "clase.bardo" : "Bardo",
+    "clase.samurai" : "Samurai",
+    "clase.draconido" : "Dracónido",
+    "clase.invocadorsupremo" : "Invocador Supremo",
+    "intro.1": "Hace 250 años la oscuridad se cernió sobre Galea",
+	"intro.2": "\\C[1]Demonel\\C[0] y sus esbirros condenaron a la \nhumanidad y todas las razas que en Galea habitaban, a\nla más lúgubre y tenebrosa oscuridad"
+}
